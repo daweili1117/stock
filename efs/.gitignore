@@ -2,7 +2,7 @@
 *.pyc
 db.sqlite3
 myvenv
-venv
+../venv
 __pycache__
 local_settings.py
 
